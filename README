@@ -1,16 +1,20 @@
 The WSN-INDFEAT-DATASET is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ - See more at: http://opendatacommons.org/licenses/odbl/#sthash.RTEDZzFr.dpuf
 
-
-//////////////////////////////////////////////
-// Data collection Specification
-//////////////////////////////////////////////
-This folder contains datasets of network features, extracted from WSN measurements at an industrial environment during the period 05-06/06/2014. 
+Disclaimer:
+This dataset is provided "AS IS". By downloading it, you agree that its use is AT YOUR OWN RISK.
+If you find any of this dataset useful for your research, please give credit in your publications where it is due.
 
 Contributors:
 Mikel Azkune, Applied Photonics Group, University of the Basque Country, Spain 
 Athanasia Panousopoulou, Institute of Computer Science, Foundation for Research and Technology-Hellas.
 
 Contact address: apanouso@ics.forth.gr
+
+
+//////////////////////////////////////////////
+// Data collection Specification
+//////////////////////////////////////////////
+This folder contains datasets of network features, extracted from WSN measurements at an industrial environment during the period 05-06/06/2014. 
 
 **********************************************
 Section 1: Network Configuration
